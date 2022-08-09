@@ -1,2 +1,2 @@
 # Escapeomania
-Recreation of Escapeomania Website
+CSS recreation of Escapeomania Website as shown: https://escapomania.com/
